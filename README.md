@@ -28,9 +28,6 @@ To run the Note Me App on your device, follow these steps:
 3. **Creating New Notes**: Click on the '+' button to create a new note. Enter the title and content for the note and click on the save button to add it.
 4. **Deleting Notes**: To delete a note, long-press on the note in the list to trigger the deletion confirmation dialog. Confirm the deletion to remove the note.
 
-## Screenshots
-Include screenshots of the app's user interface to provide a visual representation of its features.
-
 ## Dependencies
 List any third-party libraries or dependencies used in the project.
 
