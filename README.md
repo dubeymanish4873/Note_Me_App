@@ -1,9 +1,5 @@
 # Note_Me_App
-An Application where user can store there daily work routine shedule
-
-# Note Me App
-
-The Note Me App is a simple note-taking application that allows users to create, view, edit, and delete notes. It provides a clean and intuitive user interface for managing notes efficiently.
+An Application which is a simple note-taking application that allows users to create, view, edit, and delete notes. It provides a clean and intuitive user interface for managing notes efficiently.
 
 ## Features
 1. **List View of Notes**: Displays all existing notes in a list format.
